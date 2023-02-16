@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ye Yint Min</h1>
 <h3 align="center">A frontend developer from Myanmar. I want to provide a beautiful design for viewers.</h3>
 
-- 🌱 I’m currently learning **JavaScript , PHP , MySQL , English Basic , Japanese (N3)**
+- 🌱 I’m currently learning **ReactJS , PHP , MySQL , English Basic , Japanese (N3)**
 
 - 📫 How to reach me **blone5128@gmail.com**
 
