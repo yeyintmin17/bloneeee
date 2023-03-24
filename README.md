@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ye Yint Min</h1>
-<h3 align="center">A frontend developer from Myanmar. I want to provide a beautiful design for viewers.</h3>
+<h3 align="center">A front-end developer from Myanmar. I want to provide a beautiful design for viewers.</h3>
 
 - 🌱 I’m currently learning **React JS , PHP , English Basic , Japanese (N3)**
 
